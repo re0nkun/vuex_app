@@ -1,4 +1,4 @@
-import {INCREMENT_COUNTER, DECREMENT_COUNTER, GET_COUNTER} from './mutation-types'
+import {INCREMENT_COUNTER, DECREMENT_COUNTER, GET_COUNTER} from './mutation-type'
 
 export default {
   namespaced: true,

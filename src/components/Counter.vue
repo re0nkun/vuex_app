@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import { INCREMENT_COUNTER, DECREMENT_COUNTER, GET_COUNTER } from '../store/mutation-types'
+import { INCREMENT_COUNTER, DECREMENT_COUNTER, GET_COUNTER } from '../store/mutation-type'
 import {mapGetters, mapActions} from 'vuex'
 
 export default {

@@ -1,0 +1,9 @@
+export const INCREMENT_COUNTER = 'INCREMENT_COUNTER'
+export const DECREMENT_COUNTER = 'DECREMENT_COUNTER'
+export const GET_COUNTER = 'GET_COUNTER'
+
+export const ADD_TODO = 'ADD_TOTO'
+export const DONE_TODO = 'DONE_TODO'
+export const REMOVE_TODO = 'REMOVE_TODO'
+export const GET_TODOS = 'GET_TODOS'
+export const CHANGE_MYSTRING = 'CHANGE_MYSTRING'
